@@ -1,0 +1,4 @@
+{
+  "db": "mongodb://localhost/gradetracker",
+  "port": "3001"
+}
